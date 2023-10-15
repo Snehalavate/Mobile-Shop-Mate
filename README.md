@@ -1,16 +1,14 @@
 # Mobile-Shop-Mate
 Built an app that allows owner to login/register and insert, delete, update, retrieve data and Printing Receipt.
 Tech-Stack: C#, Windows Form, SSMS, .NET Framework.
-SplashScreen-
 ![M1](https://github.com/Snehalavate/Mobile-Shop-Mate/assets/95031919/02077f7b-7765-42fb-9468-26888ee937a1)
 
-Register-
+
 ![M2](https://github.com/Snehalavate/Mobile-Shop-Mate/assets/95031919/be5e6a4d-5609-43d7-a039-99496d6d8b04)
 
-Login-
 ![M3](https://github.com/Snehalavate/Mobile-Shop-Mate/assets/95031919/50b1b9b9-e975-4b6b-80af-338e4dceb74e)
 
-Homepage-
+
 ![M4](https://github.com/Snehalavate/Mobile-Shop-Mate/assets/95031919/cae7d38e-8a0a-45fd-929b-2ca50b2c8850)
 
 ![M5](https://github.com/Snehalavate/Mobile-Shop-Mate/assets/95031919/a96f3b6e-bf1f-4158-bc67-c9f5902b9ec7)
